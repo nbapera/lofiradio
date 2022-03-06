@@ -1,0 +1,18 @@
+header
+{
+    padding: 30px 50px;
+    display: inline-flex;
+}
+
+.header-logo
+{
+    margin: 0;
+    font-size: 35px;
+    margin-left: 15px;
+}
+
+.header-station
+{
+    margin: 6px 20px;
+    font-size: 25px;
+}

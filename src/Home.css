@@ -1,0 +1,24 @@
+.sidebar 
+{
+    margin-top: 150px;
+}
+
+.station
+{
+    cursor: pointer;
+    margin: 15px 20px;
+    font-size: 25px;
+    max-width: 190px;
+    transition: 0.3s;
+}
+
+.station:hover
+{
+    transition: 0.3s;
+    scale: 1.1;
+}
+
+.station-play
+{
+    font-size: 15px;
+}
