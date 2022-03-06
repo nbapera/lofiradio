@@ -1,4 +1,4 @@
-# animeplanet
+# lofiradio
 ## lo-fi streaming platform
 ### built in reactjs
 
